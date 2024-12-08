@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dascii/static/css/main.e9bf2012.css",
+    "main.js": "/dascii/static/js/main.52127369.js",
+    "index.html": "/dascii/index.html",
+    "main.e9bf2012.css.map": "/dascii/static/css/main.e9bf2012.css.map",
+    "main.52127369.js.map": "/dascii/static/js/main.52127369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9bf2012.css",
+    "static/js/main.52127369.js"
+  ]
+}
